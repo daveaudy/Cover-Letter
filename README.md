@@ -19,7 +19,7 @@ Data Conversion
 I have designed, developed, implemented and supported data conversion tools to convert customer data to our suite of products and worked with customer to ensure completeness and accuracy.
 
 Relational Database experience
-You specified having a strong knowledge of SQL and relational databases.  Since 1998 I have been using MS SQL. I am familiar with creating stored procedures/triggers and database security/administration. 
+Since 1998 I have been using MS SQL. I am familiar with creating stored procedures/triggers and database security/administration. 
 Software development:
 Most of my development work has been in a client/server environment, not in a browser based software environment. 
 Within this past year we have been rolling out a new version of our software which has been ported to WinForms and C# in Visual Studio.  
