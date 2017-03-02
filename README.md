@@ -28,7 +28,7 @@ Customer/Employee Training
 I have trained customers and employees on software usage, both onsite and using remote applications like Team Viewer, GoToAssist, WebEx and others.
 
 Customer Support
-I have worked with and for the support department at a tier one level.  This meant either solving the issue of the phone with the customer or if it was a quick resolution, solved myself.
+I have worked with and for the support department at a tier one level.  This meant either solving the issue on the phone with the customer or if it was a quick resolution, solved myself.
 
 Change Management Software
 We have used change management applications Microsoft Visual SourceSafe and Perforce
