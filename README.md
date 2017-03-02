@@ -1,5 +1,5 @@
 # Cover-Letter
-I have been employed with Vadim Software for 28 years, however, my current position will be discontinues as of March 31, 2017 as a result of Aptean Software purchasing our parent company StarDyne and its sister companies. 
+I have been employed with Vadim Software for 28 years, however, my current position will be discontinueD as of March 31, 2017 as a result of Aptean Software purchasing our parent company StarDyne and its sister companies. 
 
 I have had several roles in my years at Vadim in all areas of Production development life cycle including specification gathering, design, development, Implementation and Support which also may prove to be an asset to your company.
 
